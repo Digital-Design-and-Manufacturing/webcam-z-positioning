@@ -1,0 +1,37 @@
+{
+    "window title": "Nozzle distance viewer",
+    "window dimensions": "940x500",
+    "std": 1.0,
+    "contour color": [
+        0,
+        255,
+        0
+    ],
+    "y value 1": 220,
+    "y value 2": 420,
+    "avg color": [
+        255,
+        0,
+        0
+    ],
+    "median color": [
+        0,
+        0,
+        255
+    ],
+    "k value": 0,
+    "blur repetition": 10,
+    "lower color": [
+        0,
+        0,
+        0
+    ],
+    "upper color": [
+        100,
+        100,
+        100
+    ],
+    "threshold 1": 70,
+    "threshold 2": 150,
+    "flipped view": false
+}
